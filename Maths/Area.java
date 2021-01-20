@@ -4,6 +4,8 @@ package Maths;
 public class Area {
   public static void main(String[] args) {
 
+      System.out.println( "WHAT ABOUT THAT ?" );
+      
     /* test cube */
     assert Double.compare(surfaceAreaCube(1), 6.0) == 0;
 
